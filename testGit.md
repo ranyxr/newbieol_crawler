@@ -8,10 +8,10 @@
 
 :smile::smile:
 
-*man
-*han
-*xin
--teng
+* man
+* han
+* xin
+- teng
 
 1. Make my changes
   1. Fix bug
