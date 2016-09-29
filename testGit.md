@@ -4,7 +4,7 @@
 
 *try to upload to my own Github*
 **try to upload to my own Github**
-*try to upload to my own Github
+_try to upload to my own Github_
 
 :smile::smile:
 
@@ -28,13 +28,13 @@
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
 
->ÕâÀïÊÇÒýÓÃ
->>¶þ¼¶ÒýÓÃ
+>è¿™é‡Œæ˜¯å¼•ç”¨
+>>äºŒçº§å¼•ç”¨
 
 [May J Leeee](https://www.facebook.com/official.mayj/?hc_ref=NEWSFEED)
 
 
-**ÕâÊÇÎÒÅ®Éñ£¬³¤µÃºÜÏñÇ°Å®ÓÑ**
+**æˆ‘å¥³ç¥ž**
 ![May J Lee](https://scontent.xx.fbcdn.net/t31.0-8/13581907_526989624159957_5368018703758364990_o.jpg)
 
 
