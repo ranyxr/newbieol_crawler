@@ -14,14 +14,14 @@
 - teng
 
 1. Make my changes
-  1. Fix bug
-    2. Improve formatting
-        * Make the headings bigger
-        2. Push my commits to GitHub
-        3. Open a pull request
-          * Describe my changes
-            * Mention all the members of my team
-                * Ask for feedb
+1. Fix bug
+2. Improve formatting
+   * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+* Describe my changes
+* Mention all the members of my team
+* Ask for feedb
 
 
 - [x] Finish my changes
@@ -31,11 +31,11 @@
 >这里是引用
 >>二级引用
 
-[Daman](https://www.facebook.com/profile.php?id=100012088126432&fref=pymk)
+[May J Leeee](https://www.facebook.com/official.mayj/?hc_ref=NEWSFEED)
 
 
-the girl i loved once
-![man](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/14370245_197186974027572_6668974489098099404_n.jpg?oh=26bda9dd8d661a566b8aa48440560182&oe=587DC958&__gda__=1482868590_1239ffff0483f44945114f80014ded24)
+**这是我女神，长得很像前女友**
+![May J Lee](https://scontent.xx.fbcdn.net/t31.0-8/13581907_526989624159957_5368018703758364990_o.jpg)
 
 
 ```c
